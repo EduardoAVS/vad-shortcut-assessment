@@ -1,0 +1,121 @@
+{
+ "excluded": {
+  "93": "box outside the crop"
+ },
+ "agreement_cache_full": 0.6067,
+ "seconds": 50.5,
+ "primary": {
+  "cache": {
+   "n": 89,
+   "pointing": 0.809,
+   "pointing_ci95": [
+    0.7303370786516854,
+    0.8876404494382022
+   ],
+   "chance": 0.2184,
+   "pointing_minus_chance": 0.5906,
+   "diff_ci95": [
+    0.5077247191011236,
+    0.6699438202247191
+   ],
+   "hit": 0.9213,
+   "median_coverage": 0.8348,
+   "median_region_cells": 3.0,
+   "verdict": "valid"
+  },
+  "full": {
+   "n": 89,
+   "pointing": 0.8539,
+   "pointing_ci95": [
+    0.7752808988764045,
+    0.9213483146067416
+   ],
+   "chance": 0.2303,
+   "pointing_minus_chance": 0.6236,
+   "diff_ci95": [
+    0.550561797752809,
+    0.6917134831460674
+   ],
+   "hit": 0.9438,
+   "median_coverage": 0.8433,
+   "median_region_cells": 4.0,
+   "verdict": "valid"
+  }
+ },
+ "without_39": {
+  "cache": {
+   "n": 88,
+   "pointing": 0.8068,
+   "pointing_ci95": [
+    0.7272727272727273,
+    0.8863636363636364
+   ],
+   "chance": 0.2188,
+   "pointing_minus_chance": 0.5881,
+   "diff_ci95": [
+    0.5042613636363636,
+    0.6640625
+   ],
+   "hit": 0.9205,
+   "median_coverage": 0.831,
+   "median_region_cells": 3.0,
+   "verdict": "valid"
+  },
+  "full": {
+   "n": 88,
+   "pointing": 0.8523,
+   "pointing_ci95": [
+    0.7727272727272727,
+    0.9204545454545454
+   ],
+   "chance": 0.2308,
+   "pointing_minus_chance": 0.6214,
+   "diff_ci95": [
+    0.5482776988636364,
+    0.6903409090909091
+   ],
+   "hit": 0.9432,
+   "median_coverage": 0.8423,
+   "median_region_cells": 4.0,
+   "verdict": "valid"
+  }
+ },
+ "box_fully_in_crop": {
+  "cache": {
+   "n": 77,
+   "pointing": 0.7922,
+   "pointing_ci95": [
+    0.7012987012987013,
+    0.8831168831168831
+   ],
+   "chance": 0.2183,
+   "pointing_minus_chance": 0.5739,
+   "diff_ci95": [
+    0.4837662337662338,
+    0.6590909090909091
+   ],
+   "hit": 0.9091,
+   "median_coverage": 0.8348,
+   "median_region_cells": 3.0,
+   "verdict": "valid"
+  },
+  "full": {
+   "n": 77,
+   "pointing": 0.8442,
+   "pointing_ci95": [
+    0.7532467532467533,
+    0.922077922077922
+   ],
+   "chance": 0.2305,
+   "pointing_minus_chance": 0.6136,
+   "diff_ci95": [
+    0.5308441558441559,
+    0.6866883116883117
+   ],
+   "hit": 0.9351,
+   "median_coverage": 0.8433,
+   "median_region_cells": 4.0,
+   "verdict": "valid"
+  }
+ }
+}

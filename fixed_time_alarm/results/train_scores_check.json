@@ -1,0 +1,22 @@
+{
+  "test_reproduction": {
+    "n_videos": 150,
+    "n_compared": 8862,
+    "n_missing": 0,
+    "max_abs_diff": 1.1920928966180355e-07,
+    "mean_abs_diff": 1.5973949914566204e-11,
+    "pass": true
+  },
+  "train_vs_decoded_train_scores": {
+    "n_videos": 227,
+    "n_compared": 11906,
+    "n_missing": 0,
+    "max_abs_diff": 1.1920928966180355e-07,
+    "mean_abs_diff": 9.136444374838971e-11
+  },
+  "train_accident_grid_identical": true,
+  "train_normals": {
+    "n_videos": 200,
+    "n_frames": 20119
+  }
+}

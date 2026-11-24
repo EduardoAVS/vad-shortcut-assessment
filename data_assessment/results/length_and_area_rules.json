@@ -1,0 +1,313 @@
+{
+  "TAD (test)": {
+    "set": "TAD (test)",
+    "n": 32,
+    "n_accident": 16,
+    "n_normal": 16,
+    "auc": 0.54296875,
+    "direction": "accident_shorter",
+    "ci95": [
+      0.503921568627451,
+      0.7461178768382352
+    ],
+    "null": {
+      "mean": 0.582455078125,
+      "p95": 0.69921875,
+      "max": 0.859375
+    },
+    "separability": {
+      "accident_range": [
+        207.0,
+        809.0
+      ],
+      "normal_range": [
+        249.0,
+        1314.0
+      ],
+      "disjoint": false,
+      "gap": -560.0,
+      "best_single_threshold_accuracy": 0.5625,
+      "threshold": 298.0,
+      "majority_class": 0.5,
+      "gain": 0.0625
+    },
+    "median_accident": 499.0,
+    "median_normal": 513.0,
+    "active_area": {
+      "n_boxes": 3,
+      "table_rule": 0.5625,
+      "majority": 0.5,
+      "gain": 0.0625,
+      "accidents_in_exclusive_box": 0,
+      "n_accident": 16,
+      "frac_accidents_exclusive": 0.0,
+      "normals_in_exclusive_box": 2,
+      "n_normal": 16,
+      "frac_normals_exclusive": 0.125
+    },
+    "resolution": {
+      "n_resolutions": 3,
+      "table_rule": 0.5625,
+      "majority": 0.5,
+      "gain": 0.0625,
+      "most_common": [
+        [
+          "1920x1080",
+          30
+        ],
+        [
+          "1280x720",
+          1
+        ],
+        [
+          "2560x1440",
+          1
+        ]
+      ]
+    }
+  },
+  "TAD (train)": {
+    "set": "TAD (train)",
+    "n": 372,
+    "n_accident": 261,
+    "n_normal": 111,
+    "auc": 0.5801318559939249,
+    "direction": "accident_longer",
+    "ci95": [
+      0.5211932552536405,
+      0.6390005481882904
+    ],
+    "null": {
+      "mean": 0.5263750129439785,
+      "p95": 0.5652721687204445,
+      "max": 0.6086603845224534
+    },
+    "separability": {
+      "accident_range": [
+        41.0,
+        2297.0
+      ],
+      "normal_range": [
+        92.0,
+        979.0
+      ],
+      "disjoint": false,
+      "gap": -938.0,
+      "best_single_threshold_accuracy": 0.7016129032258065,
+      "threshold": 41.0,
+      "majority_class": 0.7016129032258065,
+      "gain": 0.0
+    },
+    "median_accident": 358.0,
+    "median_normal": 299.0,
+    "active_area": {
+      "n_boxes": 114,
+      "table_rule": 0.7688172043010753,
+      "majority": 0.7016129032258065,
+      "gain": 0.06720430107526876,
+      "accidents_in_exclusive_box": 155,
+      "n_accident": 261,
+      "frac_accidents_exclusive": 0.5938697318007663,
+      "normals_in_exclusive_box": 14,
+      "n_normal": 111,
+      "frac_normals_exclusive": 0.12612612612612611
+    },
+    "resolution": {
+      "n_resolutions": 103,
+      "table_rule": 0.7526881720430108,
+      "majority": 0.7016129032258065,
+      "gain": 0.051075268817204256,
+      "most_common": [
+        [
+          "1920x1080",
+          171
+        ],
+        [
+          "1280x720",
+          37
+        ],
+        [
+          "608x1080",
+          15
+        ],
+        [
+          "640x368",
+          9
+        ],
+        [
+          "854x480",
+          8
+        ]
+      ]
+    }
+  },
+  "TAD (all)": {
+    "set": "TAD (all)",
+    "n": 404,
+    "n_accident": 277,
+    "n_normal": 127,
+    "auc": 0.5604764205918303,
+    "direction": "accident_longer",
+    "ci95": [
+      0.5080967292251708,
+      0.6201255881394662
+    ],
+    "null": {
+      "mean": 0.5249896458114216,
+      "p95": 0.5611344836408084,
+      "max": 0.6156940220017624
+    },
+    "separability": {
+      "accident_range": [
+        41.0,
+        2297.0
+      ],
+      "normal_range": [
+        92.0,
+        1314.0
+      ],
+      "disjoint": false,
+      "gap": -1273.0,
+      "best_single_threshold_accuracy": 0.6856435643564357,
+      "threshold": 41.0,
+      "majority_class": 0.6856435643564357,
+      "gain": 0.0
+    },
+    "median_accident": 366.0,
+    "median_normal": 299.0,
+    "active_area": {
+      "n_boxes": 114,
+      "table_rule": 0.745049504950495,
+      "majority": 0.6856435643564357,
+      "gain": 0.05940594059405935,
+      "accidents_in_exclusive_box": 155,
+      "n_accident": 277,
+      "frac_accidents_exclusive": 0.5595667870036101,
+      "normals_in_exclusive_box": 15,
+      "n_normal": 127,
+      "frac_normals_exclusive": 0.11811023622047244
+    },
+    "resolution": {
+      "n_resolutions": 103,
+      "table_rule": 0.7301980198019802,
+      "majority": 0.6856435643564357,
+      "gain": 0.04455445544554448,
+      "most_common": [
+        [
+          "1920x1080",
+          201
+        ],
+        [
+          "1280x720",
+          38
+        ],
+        [
+          "608x1080",
+          15
+        ],
+        [
+          "640x368",
+          9
+        ],
+        [
+          "854x480",
+          8
+        ]
+      ]
+    }
+  },
+  "SO-TAD (test)": {
+    "set": "SO-TAD (test)",
+    "n": 479,
+    "n_accident": 90,
+    "n_normal": 389,
+    "auc": 1.0,
+    "direction": "accident_shorter",
+    "ci95": [
+      1.0,
+      1.0
+    ],
+    "null": {
+      "mean": 0.5201493287632105,
+      "p95": 0.5483583261925163,
+      "max": 0.5924450157097972
+    },
+    "separability": {
+      "accident_range": [
+        79.0,
+        375.0
+      ],
+      "normal_range": [
+        388.0,
+        514.0
+      ],
+      "disjoint": true,
+      "gap": 13.0,
+      "best_single_threshold_accuracy": 1.0,
+      "threshold": 375.0,
+      "majority_class": 0.8121085594989561,
+      "gain": 0.1878914405010439
+    },
+    "median_accident": 142.0,
+    "median_normal": 501.0,
+    "active_area": {
+      "n_boxes": 29,
+      "table_rule": 0.9958246346555324,
+      "majority": 0.8121085594989561,
+      "gain": 0.1837160751565763,
+      "accidents_in_exclusive_box": 88,
+      "n_accident": 90,
+      "frac_accidents_exclusive": 0.9777777777777777,
+      "normals_in_exclusive_box": 0,
+      "n_normal": 389,
+      "frac_normals_exclusive": 0.0
+    }
+  },
+  "SO-TAD (all)": {
+    "set": "SO-TAD (all)",
+    "n": 2186,
+    "n_accident": 282,
+    "n_normal": 1904,
+    "auc": 0.9996107485547411,
+    "direction": "accident_shorter",
+    "ci95": [
+      0.999195998469994,
+      0.9999193905219435
+    ],
+    "null": {
+      "mean": 0.509553887113356,
+      "p95": 0.5230362823320818,
+      "max": 0.5476786459264558
+    },
+    "separability": {
+      "accident_range": [
+        68.0,
+        421.0
+      ],
+      "normal_range": [
+        253.0,
+        514.0
+      ],
+      "disjoint": false,
+      "gap": -168.0,
+      "best_single_threshold_accuracy": 0.9963403476669717,
+      "threshold": 376.0,
+      "majority_class": 0.8709972552607502,
+      "gain": 0.12534309240622143
+    },
+    "median_accident": 178.5,
+    "median_normal": 501.0,
+    "active_area": {
+      "n_boxes": 91,
+      "table_rule": 0.9894784995425434,
+      "majority": 0.8709972552607502,
+      "gain": 0.11848124428179319,
+      "accidents_in_exclusive_box": 259,
+      "n_accident": 282,
+      "frac_accidents_exclusive": 0.9184397163120568,
+      "normals_in_exclusive_box": 3,
+      "n_normal": 1904,
+      "frac_normals_exclusive": 0.0015756302521008404
+    }
+  }
+}

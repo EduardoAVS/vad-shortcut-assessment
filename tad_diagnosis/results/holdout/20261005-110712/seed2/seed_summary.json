@@ -1,0 +1,176 @@
+{
+  "seed": 2,
+  "n_train_grumobilenet": 299,
+  "n_val": 73,
+  "val_composition": {
+    "accidents": 51,
+    "normals_20220518": 7,
+    "normals_20220620": 3,
+    "normals_20230818": 12,
+    "normals_other": 0
+  },
+  "n_val_accidents_lt21": 1,
+  "n_val_accidents_ge21": 50,
+  "split_check": {
+    "c0_recomputed": 0.9988202796122906,
+    "c0_official_split": 0.9988202796122906,
+    "match": true
+  },
+  "val_causal": {
+    "event_control": {
+      "n": 50,
+      "score_orig": {
+        "mean": 0.9611464920639992,
+        "ci95": [
+          0.9064175964072346,
+          0.9986285909116268
+        ],
+        "n": 50
+      },
+      "retention_background_only": {
+        "mean": 0.008864551049632779,
+        "ci95": [
+          0.002535074983958409,
+          0.018402879788286752
+        ],
+        "n": 50
+      },
+      "retention_first_frame": {
+        "mean": 0.016986342776020135,
+        "ci95": [
+          0.0016350812175850223,
+          0.0452963534200534
+        ],
+        "n": 50
+      }
+    },
+    "video_control": {
+      "n": 50,
+      "score_orig": {
+        "mean": 0.8900449722415579,
+        "ci95": [
+          0.8132067689343121,
+          0.9599067622870207
+        ],
+        "n": 50
+      },
+      "retention_background_only": {
+        "mean": 0.9662077719245735,
+        "ci95": [
+          0.8889089436147468,
+          1.0226630052833552
+        ],
+        "n": 50
+      },
+      "retention_first_frame": {
+        "mean": 1.01115362826228,
+        "ci95": [
+          0.9627080923917534,
+          1.064412813104458
+        ],
+        "n": 50
+      }
+    },
+    "grumobilenet": {
+      "n": 50,
+      "score_orig": {
+        "mean": 0.9799830436336925,
+        "ci95": [
+          0.9399780234777718,
+          0.9999892575740814
+        ],
+        "n": 50
+      },
+      "retention_background_only": {
+        "mean": 0.9794266505830359,
+        "ci95": [
+          0.9374650508765489,
+          0.9999797829267726
+        ],
+        "n": 50
+      },
+      "retention_first_frame": {
+        "mean": 0.9591654861332956,
+        "ci95": [
+          0.8979593004479481,
+          0.9999840496782768
+        ],
+        "n": 50
+      }
+    }
+  },
+  "val_auc": {
+    "grumobilenet_original": {
+      "auc": 0.9376114081996435,
+      "ci95": [
+        0.8622883244206774,
+        0.9866310160427808
+      ],
+      "n": 73
+    },
+    "grumobilenet_background_only": {
+      "auc": 0.8992869875222816,
+      "ci95": [
+        0.8039215686274509,
+        0.9688279857397505
+      ],
+      "n": 73
+    },
+    "grumobilenet_first_frame": {
+      "auc": 0.9068627450980392,
+      "ci95": [
+        0.8199420677361854,
+        0.9759358288770054
+      ],
+      "n": 73
+    },
+    "video_control_first_frame": {
+      "auc": 0.910873440285205,
+      "ci95": [
+        0.8217023172905527,
+        0.975066844919786
+      ],
+      "n": 73
+    }
+  },
+  "test_auc": {
+    "grumobilenet_original": {
+      "auc": 0.638671875,
+      "ci95": [
+        0.433544921875,
+        0.834033203125
+      ],
+      "n": 32
+    },
+    "grumobilenet_background_only": {
+      "auc": 0.67578125,
+      "ci95": [
+        0.46865234375,
+        0.86328125
+      ],
+      "n": 32
+    },
+    "grumobilenet_first_frame": {
+      "auc": 0.609375,
+      "ci95": [
+        0.40615234375,
+        0.8046875
+      ],
+      "n": 32
+    },
+    "video_control_first_frame": {
+      "auc": 0.6171875,
+      "ci95": [
+        0.4140625,
+        0.8203125
+      ],
+      "n": 32
+    }
+  },
+  "conditions": {
+    "event_control_ret_background_only_le_0.3": true,
+    "video_control_ret_background_only_ge_0.8": true
+  },
+  "seed_valid": true,
+  "time_s": 47.3
+}

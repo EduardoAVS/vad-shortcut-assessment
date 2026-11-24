@@ -1,0 +1,38 @@
+{
+  "accident_mean_frames": 197.06737588652481,
+  "normal_mean_frames": 499.9375,
+  "overall_mean_frames": 460.86642268984446,
+  "total_hours": 11.193933333333334,
+  "accidents_below_6s": 83,
+  "normals_at_500_501_frames": 1877,
+  "raw_length_auc_mixed_boxes": 0.0007776227614756535,
+  "n_mixed_boxes": 1,
+  "n_boxes": 91,
+  "raw_length_auc_all": 0.00038925144525895467,
+  "length_ranges_frames": {
+    "test": {
+      "accident": [
+        79,
+        375
+      ],
+      "normal": [
+        388,
+        514
+      ],
+      "gap": 13
+    },
+    "train": {
+      "accident": [
+        68,
+        421
+      ],
+      "normal": [
+        253,
+        501
+      ],
+      "gap": -168
+    }
+  },
+  "n_test_accidents_with_keyframe": 90,
+  "median_test_keyframe_s": 2.1
+}

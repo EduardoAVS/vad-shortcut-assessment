@@ -1,0 +1,777 @@
+{
+  "preregistration": "tad_diagnosis/results/attribution/PREREG.md (binding) + docstring of tad_diagnosis/attribution.py",
+  "smoke": false,
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "event_control_lift_threshold": 2.0,
+  "seeds_instrument_ok": 3,
+  "instrument_valid": true,
+  "seeds_with_evidence": 0,
+  "grumobilenet_attribution_reading": "does not look at the motion",
+  "holdout_decision": "scene",
+  "combined_reading": "no dissociation on TAD: attribution agrees with the cause",
+  "per_seed": {
+    "0": {
+      "seed": 0,
+      "checks": {
+        "split_matches_holdout": true,
+        "max_score_diff_vs_holdout": 0.0,
+        "max_diff_maps_vs_cached_features": 0.0
+      },
+      "n_measured_accidents": 51,
+      "n_normals": 22,
+      "accident_lift": {
+        "grumobilenet/gradcam": {
+          "mean": 1.0618360647947653,
+          "ci95": [
+            0.8981053001113641,
+            1.2380551504279471
+          ],
+          "n": 51
+        },
+        "grumobilenet/gradcampp": {
+          "mean": 1.1614612913205296,
+          "ci95": [
+            1.0349043385553036,
+            1.2957117960881477
+          ],
+          "n": 51
+        },
+        "grumobilenet/layercam": {
+          "mean": 1.1667502584893428,
+          "ci95": [
+            1.0457650510270056,
+            1.2951045170067117
+          ],
+          "n": 51
+        },
+        "random_head/gradcam": {
+          "mean": 1.1847123320885102,
+          "ci95": [
+            1.0637936590994947,
+            1.3071130293686388
+          ],
+          "n": 51
+        },
+        "random_head/gradcampp": {
+          "mean": 1.2074666716220757,
+          "ci95": [
+            1.1103114643231902,
+            1.3153174555122205
+          ],
+          "n": 51
+        },
+        "random_head/layercam": {
+          "mean": 1.2009446994930326,
+          "ci95": [
+            1.1039845471607836,
+            1.3058063449511255
+          ],
+          "n": 51
+        },
+        "video_control/gradcam": {
+          "mean": 1.116248790548005,
+          "ci95": [
+            0.9516289449764374,
+            1.3064268164923767
+          ],
+          "n": 51
+        },
+        "video_control/gradcampp": {
+          "mean": 1.2192745848066993,
+          "ci95": [
+            1.088703383001607,
+            1.3609307177793444
+          ],
+          "n": 51
+        },
+        "video_control/layercam": {
+          "mean": 1.206962199918663,
+          "ci95": [
+            1.0832847334394589,
+            1.3448284656774723
+          ],
+          "n": 51
+        },
+        "event_control/gradcam": {
+          "mean": 9.71041027423177,
+          "ci95": [
+            9.261053434249575,
+            10.153850500961838
+          ],
+          "n": 51
+        },
+        "event_control/gradcampp": {
+          "mean": 5.549583461310664,
+          "ci95": [
+            5.078011005086247,
+            6.04666431478547
+          ],
+          "n": 51
+        },
+        "event_control/layercam": {
+          "mean": 5.0477593807864345,
+          "ci95": [
+            4.614943570765855,
+            5.501522159518809
+          ],
+          "n": 51
+        }
+      },
+      "paired_differences": {
+        "gradcam/grumobilenet_minus_random_head": {
+          "mean": -0.12287626729374505,
+          "ci95": [
+            -0.31549966367010035,
+            0.0639148094923851
+          ],
+          "n": 51
+        },
+        "gradcam/grumobilenet_minus_video_control": {
+          "mean": -0.0544127257532398,
+          "ci95": [
+            -0.14929421212839275,
+            0.04399875635128965
+          ],
+          "n": 51
+        },
+        "gradcampp/grumobilenet_minus_random_head": {
+          "mean": -0.04600538030154632,
+          "ci95": [
+            -0.09578676575349758,
+            0.0016769525132698869
+          ],
+          "n": 51
+        },
+        "gradcampp/grumobilenet_minus_video_control": {
+          "mean": -0.057813293486169814,
+          "ci95": [
+            -0.08251459545510484,
+            -0.034150097788899055
+          ],
+          "n": 51
+        },
+        "layercam/grumobilenet_minus_random_head": {
+          "mean": -0.03419444100368951,
+          "ci95": [
+            -0.07695247671034887,
+            0.0076149849364357015
+          ],
+          "n": 51
+        },
+        "layercam/grumobilenet_minus_video_control": {
+          "mean": -0.04021194142932012,
+          "ci95": [
+            -0.05934149762550918,
+            -0.020892320431043356
+          ],
+          "n": 51
+        }
+      },
+      "instrument_ok": true,
+      "attribution_evidence": false,
+      "normals_descriptive": {
+        "grumobilenet/gradcam": {
+          "mean": 1.5610504049447733,
+          "ci95": [
+            1.2701432234568215,
+            1.8793072521484815
+          ],
+          "n": 22
+        },
+        "grumobilenet/gradcampp": {
+          "mean": 1.515718612727428,
+          "ci95": [
+            1.2622560174623096,
+            1.8276162628065267
+          ],
+          "n": 22
+        },
+        "grumobilenet/layercam": {
+          "mean": 1.495360722376745,
+          "ci95": [
+            1.2570415524903915,
+            1.7887050985565272
+          ],
+          "n": 22
+        },
+        "random_head/gradcam": {
+          "mean": 1.2777136590732683,
+          "ci95": [
+            1.0468921009447523,
+            1.502846390210698
+          ],
+          "n": 22
+        },
+        "random_head/gradcampp": {
+          "mean": 1.4167829325251164,
+          "ci95": [
+            1.179596850427718,
+            1.6937559818192882
+          ],
+          "n": 22
+        },
+        "random_head/layercam": {
+          "mean": 1.420906257301489,
+          "ci95": [
+            1.1783326168551038,
+            1.7018212063163651
+          ],
+          "n": 22
+        },
+        "video_control/gradcam": {
+          "mean": 1.6159556190409121,
+          "ci95": [
+            1.2396064497990944,
+            2.0641452591256457
+          ],
+          "n": 22
+        },
+        "video_control/gradcampp": {
+          "mean": 1.5007091595151842,
+          "ci95": [
+            1.2326147133438106,
+            1.8329524960773433
+          ],
+          "n": 22
+        },
+        "video_control/layercam": {
+          "mean": 1.4928688519736193,
+          "ci95": [
+            1.2357463554074386,
+            1.8093908199055848
+          ],
+          "n": 22
+        }
+      },
+      "region_area_fraction": {
+        "measured_accidents": {
+          "mean": 0.33578431372549017,
+          "ci95": [
+            0.3112745098039216,
+            0.36151960784313725
+          ],
+          "n": 51
+        },
+        "normals": {
+          "mean": 0.2897727272727273,
+          "ci95": [
+            0.25,
+            0.32670454545454547
+          ],
+          "n": 22
+        }
+      },
+      "time_s": 24.6
+    },
+    "1": {
+      "seed": 1,
+      "checks": {
+        "split_matches_holdout": true,
+        "max_score_diff_vs_holdout": 0.0,
+        "max_diff_maps_vs_cached_features": 0.0
+      },
+      "n_measured_accidents": 51,
+      "n_normals": 22,
+      "accident_lift": {
+        "grumobilenet/gradcam": {
+          "mean": 1.1778855511037998,
+          "ci95": [
+            1.0617429402053562,
+            1.2986648513548127
+          ],
+          "n": 51
+        },
+        "grumobilenet/gradcampp": {
+          "mean": 1.190568516131385,
+          "ci95": [
+            1.0926115668170864,
+            1.3047219280420987
+          ],
+          "n": 51
+        },
+        "grumobilenet/layercam": {
+          "mean": 1.187866333003237,
+          "ci95": [
+            1.0942967475546246,
+            1.298767228608481
+          ],
+          "n": 51
+        },
+        "random_head/gradcam": {
+          "mean": 1.058075291673162,
+          "ci95": [
+            0.9437924285605018,
+            1.1754760949392307
+          ],
+          "n": 51
+        },
+        "random_head/gradcampp": {
+          "mean": 1.1704758567340876,
+          "ci95": [
+            1.0847545136861068,
+            1.2776905210991725
+          ],
+          "n": 51
+        },
+        "random_head/layercam": {
+          "mean": 1.1696258976731884,
+          "ci95": [
+            1.0828936133042175,
+            1.2748844215934663
+          ],
+          "n": 51
+        },
+        "video_control/gradcam": {
+          "mean": 1.2432799670648695,
+          "ci95": [
+            1.1166138580974398,
+            1.3879575595096378
+          ],
+          "n": 51
+        },
+        "video_control/gradcampp": {
+          "mean": 1.2206097468187995,
+          "ci95": [
+            1.1297198235781472,
+            1.3291608447177377
+          ],
+          "n": 51
+        },
+        "video_control/layercam": {
+          "mean": 1.215479264849145,
+          "ci95": [
+            1.1247082428821271,
+            1.3226611321587654
+          ],
+          "n": 51
+        },
+        "event_control/gradcam": {
+          "mean": 9.938531950166572,
+          "ci95": [
+            9.588895107226854,
+            10.32071794043779
+          ],
+          "n": 51
+        },
+        "event_control/gradcampp": {
+          "mean": 5.691452996339377,
+          "ci95": [
+            5.352788752785319,
+            6.059241432928506
+          ],
+          "n": 51
+        },
+        "event_control/layercam": {
+          "mean": 5.306969403445386,
+          "ci95": [
+            4.9947891133779345,
+            5.648636976879101
+          ],
+          "n": 51
+        }
+      },
+      "paired_differences": {
+        "gradcam/grumobilenet_minus_random_head": {
+          "mean": 0.1198102594306383,
+          "ci95": [
+            -0.04485067488368335,
+            0.287547708557958
+          ],
+          "n": 51
+        },
+        "gradcam/grumobilenet_minus_video_control": {
+          "mean": -0.06539441596106946,
+          "ci95": [
+            -0.20636458326884288,
+            0.0661181174544573
+          ],
+          "n": 51
+        },
+        "gradcampp/grumobilenet_minus_random_head": {
+          "mean": 0.020092659397297333,
+          "ci95": [
+            -0.016743777987759268,
+            0.05798588947327972
+          ],
+          "n": 51
+        },
+        "gradcampp/grumobilenet_minus_video_control": {
+          "mean": -0.03004123068741468,
+          "ci95": [
+            -0.06289575640497133,
+            0.0022775846398206878
+          ],
+          "n": 51
+        },
+        "layercam/grumobilenet_minus_random_head": {
+          "mean": 0.018240435330048346,
+          "ci95": [
+            -0.011579103648367197,
+            0.04904222247980502
+          ],
+          "n": 51
+        },
+        "layercam/grumobilenet_minus_video_control": {
+          "mean": -0.02761293184590791,
+          "ci95": [
+            -0.05568270169001268,
+            -0.000469766212757068
+          ],
+          "n": 51
+        }
+      },
+      "instrument_ok": true,
+      "attribution_evidence": false,
+      "normals_descriptive": {
+        "grumobilenet/gradcam": {
+          "mean": 1.2240997059659156,
+          "ci95": [
+            0.994420641732401,
+            1.4868207614253666
+          ],
+          "n": 22
+        },
+        "grumobilenet/gradcampp": {
+          "mean": 1.2083166878573726,
+          "ci95": [
+            1.0655417891599925,
+            1.3831457335596926
+          ],
+          "n": 22
+        },
+        "grumobilenet/layercam": {
+          "mean": 1.2155545549247804,
+          "ci95": [
+            1.078564418376896,
+            1.3832224029169757
+          ],
+          "n": 22
+        },
+        "random_head/gradcam": {
+          "mean": 1.2401169244450896,
+          "ci95": [
+            0.9568999482603211,
+            1.5618445599057555
+          ],
+          "n": 22
+        },
+        "random_head/gradcampp": {
+          "mean": 1.2830030609475551,
+          "ci95": [
+            1.1231596021372903,
+            1.4755771490035883
+          ],
+          "n": 22
+        },
+        "random_head/layercam": {
+          "mean": 1.2751578503341168,
+          "ci95": [
+            1.1175694306428303,
+            1.461994216150207
+          ],
+          "n": 22
+        },
+        "video_control/gradcam": {
+          "mean": 1.5182615443664924,
+          "ci95": [
+            1.249357370577486,
+            1.8423129976460415
+          ],
+          "n": 22
+        },
+        "video_control/gradcampp": {
+          "mean": 1.3077989150200118,
+          "ci95": [
+            1.156636450166379,
+            1.4958147956008212
+          ],
+          "n": 22
+        },
+        "video_control/layercam": {
+          "mean": 1.2942764699163698,
+          "ci95": [
+            1.1426397344053059,
+            1.4848766370927562
+          ],
+          "n": 22
+        }
+      },
+      "region_area_fraction": {
+        "measured_accidents": {
+          "mean": 0.3247549019607843,
+          "ci95": [
+            0.30392156862745096,
+            0.34558823529411764
+          ],
+          "n": 51
+        },
+        "normals": {
+          "mean": 0.28125,
+          "ci95": [
+            0.2471590909090909,
+            0.3181818181818182
+          ],
+          "n": 22
+        }
+      },
+      "time_s": 23.1
+    },
+    "2": {
+      "seed": 2,
+      "checks": {
+        "split_matches_holdout": true,
+        "max_score_diff_vs_holdout": 0.0,
+        "max_diff_maps_vs_cached_features": 0.0
+      },
+      "n_measured_accidents": 50,
+      "n_normals": 22,
+      "accident_lift": {
+        "grumobilenet/gradcam": {
+          "mean": 0.9772620199702599,
+          "ci95": [
+            0.8490458211935278,
+            1.1109448098489578
+          ],
+          "n": 50
+        },
+        "grumobilenet/gradcampp": {
+          "mean": 1.1501660679775128,
+          "ci95": [
+            1.0412862313249736,
+            1.2709466102612597
+          ],
+          "n": 50
+        },
+        "grumobilenet/layercam": {
+          "mean": 1.150400030256811,
+          "ci95": [
+            1.0448494920119844,
+            1.266016781861448
+          ],
+          "n": 50
+        },
+        "random_head/gradcam": {
+          "mean": 0.9219522522702661,
+          "ci95": [
+            0.8252868444138447,
+            1.0207973815039773
+          ],
+          "n": 50
+        },
+        "random_head/gradcampp": {
+          "mean": 1.1374627976433376,
+          "ci95": [
+            1.0356559205066849,
+            1.2418775296569695
+          ],
+          "n": 50
+        },
+        "random_head/layercam": {
+          "mean": 1.1347082032961346,
+          "ci95": [
+            1.0380398684730572,
+            1.237249323557432
+          ],
+          "n": 50
+        },
+        "video_control/gradcam": {
+          "mean": 1.12293272264163,
+          "ci95": [
+            0.9987268921147759,
+            1.2519874458255642
+          ],
+          "n": 50
+        },
+        "video_control/gradcampp": {
+          "mean": 1.1748675745756816,
+          "ci95": [
+            1.0562908115369627,
+            1.299536757667281
+          ],
+          "n": 50
+        },
+        "video_control/layercam": {
+          "mean": 1.1696927392204204,
+          "ci95": [
+            1.0607507518962158,
+            1.2819769507834
+          ],
+          "n": 50
+        },
+        "event_control/gradcam": {
+          "mean": 10.616626426057913,
+          "ci95": [
+            10.167129350747883,
+            11.048804090122566
+          ],
+          "n": 50
+        },
+        "event_control/gradcampp": {
+          "mean": 5.280346901335506,
+          "ci95": [
+            4.790482025469832,
+            5.81217725392302
+          ],
+          "n": 50
+        },
+        "event_control/layercam": {
+          "mean": 5.023000164805732,
+          "ci95": [
+            4.557772785266765,
+            5.520086444033045
+          ],
+          "n": 50
+        }
+      },
+      "paired_differences": {
+        "gradcam/grumobilenet_minus_random_head": {
+          "mean": 0.055309767699993566,
+          "ci95": [
+            -0.06947044308260131,
+            0.19962163243275016
+          ],
+          "n": 50
+        },
+        "gradcam/grumobilenet_minus_video_control": {
+          "mean": -0.14567070267137014,
+          "ci95": [
+            -0.24006068600871086,
+            -0.051758763714891784
+          ],
+          "n": 50
+        },
+        "gradcampp/grumobilenet_minus_random_head": {
+          "mean": 0.012703270334175381,
+          "ci95": [
+            -0.029856797550399248,
+            0.05688898719970495
+          ],
+          "n": 50
+        },
+        "gradcampp/grumobilenet_minus_video_control": {
+          "mean": -0.0247015065981687,
+          "ci95": [
+            -0.0621271669443507,
+            0.012464712069229512
+          ],
+          "n": 50
+        },
+        "layercam/grumobilenet_minus_random_head": {
+          "mean": 0.01569182696067616,
+          "ci95": [
+            -0.021597767182975056,
+            0.053328098111657604
+          ],
+          "n": 50
+        },
+        "layercam/grumobilenet_minus_video_control": {
+          "mean": -0.01929270896360942,
+          "ci95": [
+            -0.04952186618809165,
+            0.010326472590546299
+          ],
+          "n": 50
+        }
+      },
+      "instrument_ok": true,
+      "attribution_evidence": false,
+      "normals_descriptive": {
+        "grumobilenet/gradcam": {
+          "mean": 0.9241921109271467,
+          "ci95": [
+            0.7893851507108406,
+            1.0542887662617446
+          ],
+          "n": 22
+        },
+        "grumobilenet/gradcampp": {
+          "mean": 1.0269080544463378,
+          "ci95": [
+            0.9279598046849014,
+            1.1172313295418288
+          ],
+          "n": 22
+        },
+        "grumobilenet/layercam": {
+          "mean": 1.038738373308618,
+          "ci95": [
+            0.9417682902084397,
+            1.1277372527687086
+          ],
+          "n": 22
+        },
+        "random_head/gradcam": {
+          "mean": 0.9217372586399702,
+          "ci95": [
+            0.7520357626049368,
+            1.0963396921749204
+          ],
+          "n": 22
+        },
+        "random_head/gradcampp": {
+          "mean": 1.039566424457109,
+          "ci95": [
+            0.9402198900688367,
+            1.128145388270563
+          ],
+          "n": 22
+        },
+        "random_head/layercam": {
+          "mean": 1.0483019128301871,
+          "ci95": [
+            0.9530815741939977,
+            1.1315165595497323
+          ],
+          "n": 22
+        },
+        "video_control/gradcam": {
+          "mean": 1.0458839865071363,
+          "ci95": [
+            0.879343131518584,
+            1.2066494187604218
+          ],
+          "n": 22
+        },
+        "video_control/gradcampp": {
+          "mean": 1.0365860096645432,
+          "ci95": [
+            0.9260124143141101,
+            1.1395813915627033
+          ],
+          "n": 22
+        },
+        "video_control/layercam": {
+          "mean": 1.0561768688745958,
+          "ci95": [
+            0.9558471139608629,
+            1.1471448231337205
+          ],
+          "n": 22
+        }
+      },
+      "region_area_fraction": {
+        "measured_accidents": {
+          "mean": 0.32375,
+          "ci95": [
+            0.30375,
+            0.34375
+          ],
+          "n": 50
+        },
+        "normals": {
+          "mean": 0.30113636363636365,
+          "ci95": [
+            0.2754971590909091,
+            0.32677556818181813
+          ],
+          "n": 22
+        }
+      },
+      "time_s": 21.4
+    }
+  }
+}

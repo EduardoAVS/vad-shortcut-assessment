@@ -1,0 +1,25 @@
+# Datasets (not redistributed) and regenerable caches / logs (see config.py)
+data/
+work/
+*.mp4
+*.avi
+
+# Model weights: only the detector and the heads of the cited runs are versioned
+*.pt
+!detector/weights/grumobilenet.pt
+!sotad_diagnosis/results/**/*.pt
+!tad_diagnosis/**/*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+
+# Logs
+*.log
+
+# Python / Node
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/

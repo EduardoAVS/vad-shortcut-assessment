@@ -1,0 +1,162 @@
+{
+  "seed": 0,
+  "c0": {
+    "event_control_val_window_auc": 0.9931974081663058,
+    "video_control_val_window_auc": 0.8602977585971258,
+    "n_val": 73,
+    "n_train_controls": 297
+  },
+  "n_accidents_excluded_from_control_training": 2,
+  "causal": {
+    "event_control": {
+      "n": 16,
+      "score_orig": {
+        "mean": 0.8886074757319875,
+        "ci95": [
+          0.7159398010349832,
+          0.9997790398076176
+        ],
+        "n": 16
+      },
+      "retention_background_only": {
+        "mean": 0.0007367784958850852,
+        "ci95": [
+          0.00017053473329916848,
+          0.0016286273765542688
+        ],
+        "n": 16
+      },
+      "retention_first_frame": {
+        "mean": 0.0005313984074879555,
+        "ci95": [
+          0.00014907312945359,
+          0.001200510173882301
+        ],
+        "n": 16
+      },
+      "retention_swap_background": {
+        "mean": 0.9478839973411732,
+        "ci95": [
+          0.7200255564447358,
+          1.2707688852230572
+        ],
+        "n": 16
+      }
+    },
+    "video_control": {
+      "n": 16,
+      "score_orig": {
+        "mean": 0.6208794481891573,
+        "ci95": [
+          0.40297988790692046,
+          0.8270026864004165
+        ],
+        "n": 16
+      },
+      "retention_background_only": {
+        "mean": 0.8050542433008037,
+        "ci95": [
+          0.517491732639333,
+          1.0805351980888198
+        ],
+        "n": 16
+      },
+      "retention_first_frame": {
+        "mean": 1.1074709223405317,
+        "ci95": [
+          0.8644196958086708,
+          1.4452533433643469
+        ],
+        "n": 16
+      },
+      "retention_swap_background": {
+        "mean": 0.3570122571627421,
+        "ci95": [
+          0.09971946158845395,
+          0.6348726818114169
+        ],
+        "n": 16
+      }
+    },
+    "grumobilenet": {
+      "n": 16,
+      "score_orig": {
+        "mean": 0.8753390935889911,
+        "ci95": [
+          0.6906704565568361,
+          0.9993823475204409
+        ],
+        "n": 16
+      },
+      "retention_background_only": {
+        "mean": 0.7134568259677092,
+        "ci95": [
+          0.4682960201151308,
+          0.9290027938766555
+        ],
+        "n": 16
+      },
+      "retention_first_frame": {
+        "mean": 0.6860700614013011,
+        "ci95": [
+          0.4428988335396354,
+          0.9078251099605836
+        ],
+        "n": 16
+      },
+      "retention_swap_background": {
+        "mean": 0.9283087661494178,
+        "ci95": [
+          0.6915728933340262,
+          1.1595339852221438
+        ],
+        "n": 16
+      }
+    }
+  },
+  "per_video_auc": {
+    "grumobilenet_original": {
+      "auc": 0.64453125,
+      "ci95": [
+        0.42958984375,
+        0.8555664062499999
+      ],
+      "n": 32
+    },
+    "grumobilenet_background_only": {
+      "auc": 0.6640625,
+      "ci95": [
+        0.4685546875,
+        0.8515625
+      ],
+      "n": 32
+    },
+    "grumobilenet_first_frame": {
+      "auc": 0.609375,
+      "ci95": [
+        0.39453125,
+        0.8046875
+      ],
+      "n": 32
+    },
+    "video_control_first_frame": {
+      "auc": 0.6484375,
+      "ci95": [
+        0.44140625,
+        0.8359375
+      ],
+      "n": 32
+    }
+  },
+  "conditions": {
+    "c0_event_control_val_auc_ge_0.90": true,
+    "event_control_ret_background_only_le_0.3": true,
+    "video_control_ret_background_only_ge_0.8": true
+  },
+  "seed_passes": true,
+  "seed_passes_literal_without_c0": true,
+  "n_eval_accidents": 16,
+  "n_eval_accidents_lt21": 0,
+  "n_eval_videos": 32,
+  "time_s": 167.3
+}

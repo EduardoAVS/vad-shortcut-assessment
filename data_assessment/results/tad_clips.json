@@ -1,0 +1,6070 @@
+{
+ "frame_count_check": {
+  "n_sample": 25,
+  "exact": 25,
+  "max_abs_diff": 0,
+  "mean_diff": 0.0
+ },
+ "rows": [
+  {
+   "video": "test/accident/videox_test_T1.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 809,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T10.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 551,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T11.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T12.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T13.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 489,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T14.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T15.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T16.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 251,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T2.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T3.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 599,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T4.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 298,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T5.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 207,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T6.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T7.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 276,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T8.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 784,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/accident/videox_test_T9.mp4",
+   "split": "test",
+   "accident": 1,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F1.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 1314,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F10.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F11.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 275,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F12.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 599,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F13.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F14.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 899,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F15.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 494,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F16.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F2.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 744,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F3.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F4.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F5.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F6.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 699,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F7.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 499,
+   "w": 2560,
+   "h": 1440,
+   "fps": 25.0,
+   "box": [
+    0,
+    1440,
+    0,
+    2560
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F8.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 494,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "test/normal/videox_test_F9.mp4",
+   "split": "test",
+   "accident": 0,
+   "n_frames": 527,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e10M/video101.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1570,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e10M/video147.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1699,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e10M/video154.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1269,
+   "w": 1280,
+   "h": 720,
+   "fps": 30.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e10M/video82.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 2297,
+   "w": 608,
+   "h": 1080,
+   "fps": 26.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video102.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 384,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    1,
+    1914
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video103.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 559,
+   "w": 712,
+   "h": 708,
+   "fps": 26.0,
+   "box": [
+    0,
+    708,
+    0,
+    712
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video104.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 609,
+   "w": 882,
+   "h": 446,
+   "fps": 24.0,
+   "box": [
+    0,
+    446,
+    0,
+    882
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video110.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 339,
+   "w": 608,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video111.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1952,
+   "w": 646,
+   "h": 354,
+   "fps": 25.0,
+   "box": [
+    0,
+    354,
+    0,
+    646
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video114.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 473,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video118.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 461,
+   "w": 608,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video121.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 279,
+   "w": 608,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video123.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 358,
+   "w": 608,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    3,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video124.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 135,
+   "w": 608,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video125_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 475,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video127.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 302,
+   "w": 544,
+   "h": 426,
+   "fps": 29.0,
+   "box": [
+    0,
+    426,
+    0,
+    544
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video128.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 675,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video129.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 292,
+   "w": 640,
+   "h": 352,
+   "fps": 30.0,
+   "box": [
+    0,
+    352,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video13.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 516,
+   "w": 1280,
+   "h": 720,
+   "fps": 30.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video130.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 525,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    32,
+    1048,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video131.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 384,
+   "w": 1136,
+   "h": 640,
+   "fps": 30.0,
+   "box": [
+    0,
+    640,
+    0,
+    1136
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video137.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 548,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video138.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 433,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video143.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 405,
+   "w": 960,
+   "h": 544,
+   "fps": 28.00003687247654,
+   "box": [
+    0,
+    544,
+    0,
+    960
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video146.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 647,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video149.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 558,
+   "w": 720,
+   "h": 420,
+   "fps": 30.0,
+   "box": [
+    14,
+    420,
+    0,
+    720
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video156.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 293,
+   "w": 544,
+   "h": 368,
+   "fps": 25.0,
+   "box": [
+    5,
+    368,
+    0,
+    544
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video157.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 345,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video158.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 950,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video159.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 518,
+   "w": 640,
+   "h": 368,
+   "fps": 24.0,
+   "box": [
+    0,
+    368,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video161.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1169,
+   "w": 960,
+   "h": 544,
+   "fps": 28.833333333333332,
+   "box": [
+    0,
+    544,
+    0,
+    960
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video164.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 458,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video165.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 371,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video168.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 260,
+   "w": 1280,
+   "h": 720,
+   "fps": 14.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video169.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 330,
+   "w": 544,
+   "h": 574,
+   "fps": 30.0,
+   "box": [
+    0,
+    574,
+    0,
+    544
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video173.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 763,
+   "w": 852,
+   "h": 480,
+   "fps": 30.0,
+   "box": [
+    0,
+    480,
+    0,
+    852
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video175.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 790,
+   "w": 850,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    850
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video176.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 475,
+   "w": 544,
+   "h": 462,
+   "fps": 25.0,
+   "box": [
+    0,
+    462,
+    0,
+    544
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video177.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 231,
+   "w": 544,
+   "h": 560,
+   "fps": 30.0,
+   "box": [
+    0,
+    560,
+    0,
+    544
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video182.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 415,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video184.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 634,
+   "w": 734,
+   "h": 396,
+   "fps": 27.0,
+   "box": [
+    0,
+    396,
+    0,
+    734
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video186.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 373,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video187.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 710,
+   "w": 632,
+   "h": 360,
+   "fps": 25.0,
+   "box": [
+    0,
+    360,
+    0,
+    632
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video188.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 325,
+   "w": 1906,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1906
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video189.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 480,
+   "w": 640,
+   "h": 368,
+   "fps": 24.0,
+   "box": [
+    0,
+    368,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video190.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 741,
+   "w": 1280,
+   "h": 720,
+   "fps": 30.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video191.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 190,
+   "w": 1904,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1904
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video192.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 288,
+   "w": 544,
+   "h": 458,
+   "fps": 25.0,
+   "box": [
+    10,
+    456,
+    0,
+    544
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video193.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 662,
+   "w": 960,
+   "h": 544,
+   "fps": 24.0,
+   "box": [
+    0,
+    544,
+    0,
+    960
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video194.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 431,
+   "w": 608,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video196.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 384,
+   "w": 528,
+   "h": 646,
+   "fps": 54.0,
+   "box": [
+    0,
+    646,
+    0,
+    528
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video197.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 396,
+   "w": 1280,
+   "h": 720,
+   "fps": 30.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video201.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 417,
+   "w": 540,
+   "h": 554,
+   "fps": 30.0,
+   "box": [
+    0,
+    554,
+    0,
+    540
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video202.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 495,
+   "w": 1080,
+   "h": 624,
+   "fps": 30.0,
+   "box": [
+    0,
+    624,
+    0,
+    1080
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video203.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 306,
+   "w": 1312,
+   "h": 720,
+   "fps": 30.0,
+   "box": [
+    0,
+    720,
+    0,
+    1312
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video205.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 250,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video206.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 240,
+   "w": 540,
+   "h": 484,
+   "fps": 25.0,
+   "box": [
+    9,
+    480,
+    0,
+    540
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video207.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 498,
+   "w": 704,
+   "h": 616,
+   "fps": 30.0,
+   "box": [
+    0,
+    616,
+    0,
+    704
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video21.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 345,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video23.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 358,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video24.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 263,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video26.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 830,
+   "w": 1880,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1880
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video27.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 356,
+   "w": 1912,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1912
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video29.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 473,
+   "w": 1880,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1880
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video3.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 773,
+   "w": 854,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    854
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video30.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 749,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video32.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 365,
+   "w": 1880,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1880
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video39.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 355,
+   "w": 608,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video43.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 331,
+   "w": 540,
+   "h": 960,
+   "fps": 30.0,
+   "box": [
+    0,
+    960,
+    0,
+    540
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video45_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 757,
+   "w": 540,
+   "h": 960,
+   "fps": 30.0,
+   "box": [
+    0,
+    960,
+    0,
+    540
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video45_2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 757,
+   "w": 540,
+   "h": 586,
+   "fps": 30.0,
+   "box": [
+    0,
+    586,
+    0,
+    540
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video46.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 327,
+   "w": 540,
+   "h": 504,
+   "fps": 23.0,
+   "box": [
+    0,
+    504,
+    0,
+    540
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video49.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 898,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video50.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 588,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video51.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 604,
+   "w": 572,
+   "h": 354,
+   "fps": 30.0,
+   "box": [
+    0,
+    354,
+    0,
+    572
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video52.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 397,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    34,
+    1048,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video53.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 620,
+   "w": 852,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    852
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video59.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 331,
+   "w": 536,
+   "h": 430,
+   "fps": 24.0,
+   "box": [
+    0,
+    430,
+    0,
+    536
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video60.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 685,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1076,
+    8,
+    1912
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video61.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1050,
+   "w": 960,
+   "h": 544,
+   "fps": 25.0,
+   "box": [
+    0,
+    544,
+    0,
+    960
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video62.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 337,
+   "w": 608,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video63.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 330,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video66.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 398,
+   "w": 1264,
+   "h": 720,
+   "fps": 17.00002278060004,
+   "box": [
+    0,
+    720,
+    0,
+    1264
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video67.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 448,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video68.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 383,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video69.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 432,
+   "w": 1280,
+   "h": 720,
+   "fps": 14.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video7.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 383,
+   "w": 272,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    272
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video71.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 356,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video73.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 396,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video75.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 267,
+   "w": 1878,
+   "h": 1080,
+   "fps": 24.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1878
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video76.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 361,
+   "w": 608,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video78.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 219,
+   "w": 608,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video8.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 623,
+   "w": 854,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    854
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video83.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 321,
+   "w": 1280,
+   "h": 720,
+   "fps": 15.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video84.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 308,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video86.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 321,
+   "w": 608,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video89.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 260,
+   "w": 536,
+   "h": 864,
+   "fps": 25.0,
+   "box": [
+    0,
+    864,
+    0,
+    536
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video9.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 285,
+   "w": 608,
+   "h": 1080,
+   "fps": 23.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video90.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 340,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video92.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1452,
+   "w": 1280,
+   "h": 720,
+   "fps": 28.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video94.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 519,
+   "w": 608,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1050,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video95.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 336,
+   "w": 1980,
+   "h": 1020,
+   "fps": 30.0,
+   "box": [
+    0,
+    1020,
+    0,
+    1980
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video97.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 335,
+   "w": 1720,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1720
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video98.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 494,
+   "w": 720,
+   "h": 1280,
+   "fps": 30.0,
+   "box": [
+    0,
+    1280,
+    0,
+    720
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/video99.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 762,
+   "w": 1904,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1904
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox10_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 274,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox12_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 330,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox13_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 298,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox14_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox14_2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox14_3.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox15_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 274,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox16_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 754,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox16_2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 770,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox17_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 272,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox19_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 548,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox20_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 265,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox21_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox22_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 502,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox23_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox24_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox25_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 247,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox2_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 274,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox2_2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 274,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox30_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 317,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox32_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 276,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox32_2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 275,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox33_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 330,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox3_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 749,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox3_10.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 799,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox3_11.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 799,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox3_13.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 749,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox3_2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 799,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox3_3.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 799,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox3_5.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 799,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox3_6.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 799,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox3_7.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 799,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox3_8.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 749,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox3_9.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 749,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox4_2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 245,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox5_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 248,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox6_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 247,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox6_2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 247,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox6_3.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 330,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox7_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox7_2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox7_3.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox7_4.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox8_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 750,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox8_2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 771,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox9_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 329,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox9_2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 330,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e1M\u5c0f\u4e8e5M/videox9_3.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 247,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video10.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 732,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video100.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1626,
+   "w": 1920,
+   "h": 1072,
+   "fps": 30.0,
+   "box": [
+    0,
+    1072,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video108.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1131,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video112.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1894,
+   "w": 640,
+   "h": 640,
+   "fps": 24.0,
+   "box": [
+    0,
+    640,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video113.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 2144,
+   "w": 640,
+   "h": 640,
+   "fps": 24.0,
+   "box": [
+    0,
+    640,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video122.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 900,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video14.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1379,
+   "w": 896,
+   "h": 544,
+   "fps": 29.916666666666668,
+   "box": [
+    0,
+    522,
+    0,
+    896
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video167.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 657,
+   "w": 608,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    608
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video170.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 825,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video174.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 456,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video20.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 575,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video209.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1118,
+   "w": 1912,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1912
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video31.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 532,
+   "w": 1878,
+   "h": 1080,
+   "fps": 24.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1878
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video47.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1769,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video48.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 1113,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5927\u4e8e5M\u5c0f\u4e8e10M/video77.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 705,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 356,
+   "w": 640,
+   "h": 368,
+   "fps": 24.0,
+   "box": [
+    0,
+    368,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video105.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 259,
+   "w": 640,
+   "h": 368,
+   "fps": 24.0,
+   "box": [
+    0,
+    368,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video106.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 232,
+   "w": 694,
+   "h": 480,
+   "fps": 30.0,
+   "box": [
+    0,
+    480,
+    0,
+    694
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video107.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 373,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video109.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 372,
+   "w": 1280,
+   "h": 720,
+   "fps": 26.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video11.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 288,
+   "w": 564,
+   "h": 860,
+   "fps": 30.0,
+   "box": [
+    0,
+    860,
+    0,
+    564
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video115.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 179,
+   "w": 360,
+   "h": 278,
+   "fps": 25.0,
+   "box": [
+    0,
+    278,
+    0,
+    360
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video116.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 448,
+   "w": 728,
+   "h": 408,
+   "fps": 25.0,
+   "box": [
+    0,
+    408,
+    0,
+    728
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video117.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 225,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    1,
+    1917
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video119.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 290,
+   "w": 356,
+   "h": 368,
+   "fps": 25.0,
+   "box": [
+    0,
+    368,
+    0,
+    356
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video12.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 168,
+   "w": 368,
+   "h": 420,
+   "fps": 24.0,
+   "box": [
+    0,
+    415,
+    0,
+    368
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video120.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 236,
+   "w": 960,
+   "h": 540,
+   "fps": 25.0,
+   "box": [
+    0,
+    540,
+    0,
+    960
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video125_2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 126,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video126.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 188,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video132.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 285,
+   "w": 480,
+   "h": 640,
+   "fps": 25.0,
+   "box": [
+    0,
+    640,
+    0,
+    480
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video133.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 510,
+   "w": 854,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    854
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video134.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 428,
+   "w": 536,
+   "h": 390,
+   "fps": 30.0,
+   "box": [
+    0,
+    390,
+    0,
+    536
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video135.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 411,
+   "w": 960,
+   "h": 544,
+   "fps": 30.0,
+   "box": [
+    0,
+    544,
+    0,
+    960
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video136.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 404,
+   "w": 960,
+   "h": 540,
+   "fps": 24.0,
+   "box": [
+    0,
+    540,
+    0,
+    960
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video139.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 293,
+   "w": 960,
+   "h": 544,
+   "fps": 29.0,
+   "box": [
+    0,
+    544,
+    0,
+    960
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video140.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 309,
+   "w": 944,
+   "h": 536,
+   "fps": 30.0,
+   "box": [
+    0,
+    536,
+    0,
+    944
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video141.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 459,
+   "w": 1044,
+   "h": 598,
+   "fps": 30.0,
+   "box": [
+    0,
+    598,
+    0,
+    1044
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video142.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 383,
+   "w": 360,
+   "h": 374,
+   "fps": 25.0,
+   "box": [
+    0,
+    374,
+    0,
+    360
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video144.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 198,
+   "w": 624,
+   "h": 360,
+   "fps": 23.0,
+   "box": [
+    0,
+    360,
+    0,
+    624
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video145.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 648,
+   "w": 640,
+   "h": 368,
+   "fps": 24.0,
+   "box": [
+    0,
+    368,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video148.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 335,
+   "w": 1250,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1250
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video15.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 189,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video150.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 358,
+   "w": 1050,
+   "h": 576,
+   "fps": 25.0,
+   "box": [
+    0,
+    576,
+    0,
+    1050
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video151.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 233,
+   "w": 544,
+   "h": 458,
+   "fps": 25.0,
+   "box": [
+    8,
+    458,
+    0,
+    544
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video152.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 336,
+   "w": 726,
+   "h": 404,
+   "fps": 24.0,
+   "box": [
+    0,
+    404,
+    0,
+    726
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video153.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 200,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1904
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video155.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 432,
+   "w": 530,
+   "h": 240,
+   "fps": 30.0,
+   "box": [
+    0,
+    240,
+    0,
+    530
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video16.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 300,
+   "w": 704,
+   "h": 608,
+   "fps": 30.0,
+   "box": [
+    0,
+    608,
+    0,
+    704
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video160.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 374,
+   "w": 854,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    4,
+    480,
+    0,
+    854
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video162.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 462,
+   "w": 848,
+   "h": 480,
+   "fps": 30.0,
+   "box": [
+    0,
+    480,
+    0,
+    848
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video163.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 323,
+   "w": 640,
+   "h": 368,
+   "fps": 24.0,
+   "box": [
+    0,
+    354,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video166.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 265,
+   "w": 720,
+   "h": 436,
+   "fps": 25.0,
+   "box": [
+    0,
+    436,
+    0,
+    720
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video17.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 231,
+   "w": 360,
+   "h": 640,
+   "fps": 30.0,
+   "box": [
+    0,
+    640,
+    0,
+    360
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video171.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 387,
+   "w": 538,
+   "h": 308,
+   "fps": 30.0,
+   "box": [
+    0,
+    308,
+    0,
+    538
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video172.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 356,
+   "w": 832,
+   "h": 480,
+   "fps": 29.000067884054037,
+   "box": [
+    0,
+    480,
+    0,
+    832
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video178.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 317,
+   "w": 852,
+   "h": 480,
+   "fps": 30.0,
+   "box": [
+    0,
+    480,
+    0,
+    852
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video179.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 505,
+   "w": 644,
+   "h": 360,
+   "fps": 25.0,
+   "box": [
+    0,
+    360,
+    0,
+    644
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video18.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 330,
+   "w": 640,
+   "h": 480,
+   "fps": 24.0,
+   "box": [
+    0,
+    480,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video180.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 232,
+   "w": 944,
+   "h": 544,
+   "fps": 20.0,
+   "box": [
+    0,
+    544,
+    0,
+    944
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video181.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 264,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video183.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 453,
+   "w": 640,
+   "h": 360,
+   "fps": 25.0,
+   "box": [
+    0,
+    360,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video185.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 225,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video19.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 447,
+   "w": 640,
+   "h": 320,
+   "fps": 30.0,
+   "box": [
+    0,
+    320,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video195.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 718,
+   "w": 854,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    854
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video198.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 366,
+   "w": 544,
+   "h": 446,
+   "fps": 30.0,
+   "box": [
+    0,
+    446,
+    0,
+    544
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video199.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 685,
+   "w": 640,
+   "h": 368,
+   "fps": 24.0,
+   "box": [
+    0,
+    368,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video2.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 600,
+   "w": 854,
+   "h": 480,
+   "fps": 30.0,
+   "box": [
+    0,
+    480,
+    0,
+    854
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video200.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 303,
+   "w": 720,
+   "h": 584,
+   "fps": 30.0,
+   "box": [
+    0,
+    584,
+    0,
+    720
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video204.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 378,
+   "w": 852,
+   "h": 480,
+   "fps": 30.0,
+   "box": [
+    0,
+    480,
+    0,
+    852
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video208.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 235,
+   "w": 472,
+   "h": 264,
+   "fps": 25.0,
+   "box": [
+    0,
+    264,
+    0,
+    472
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video22.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 234,
+   "w": 852,
+   "h": 480,
+   "fps": 21.0,
+   "box": [
+    0,
+    480,
+    0,
+    852
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video25.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 254,
+   "w": 848,
+   "h": 480,
+   "fps": 30.0,
+   "box": [
+    0,
+    480,
+    0,
+    848
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video28.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 417,
+   "w": 360,
+   "h": 500,
+   "fps": 30.0,
+   "box": [
+    0,
+    500,
+    0,
+    360
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video33.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 106,
+   "w": 314,
+   "h": 192,
+   "fps": 20.0,
+   "box": [
+    0,
+    192,
+    0,
+    314
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video34.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 79,
+   "w": 372,
+   "h": 192,
+   "fps": 20.0,
+   "box": [
+    0,
+    192,
+    0,
+    372
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video35.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 70,
+   "w": 312,
+   "h": 194,
+   "fps": 20.0,
+   "box": [
+    0,
+    194,
+    0,
+    312
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video36.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 71,
+   "w": 270,
+   "h": 138,
+   "fps": 20.0,
+   "box": [
+    0,
+    138,
+    0,
+    270
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video37.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 73,
+   "w": 228,
+   "h": 158,
+   "fps": 20.0,
+   "box": [
+    0,
+    158,
+    0,
+    228
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video38.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 96,
+   "w": 346,
+   "h": 194,
+   "fps": 20.0,
+   "box": [
+    0,
+    194,
+    0,
+    346
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video4.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 325,
+   "w": 854,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    854
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video40.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 471,
+   "w": 1144,
+   "h": 640,
+   "fps": 30.0,
+   "box": [
+    0,
+    640,
+    0,
+    1144
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video41.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 60,
+   "w": 708,
+   "h": 712,
+   "fps": 25.0,
+   "box": [
+    0,
+    712,
+    0,
+    708
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video42.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 279,
+   "w": 640,
+   "h": 360,
+   "fps": 25.0,
+   "box": [
+    0,
+    360,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video44.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 206,
+   "w": 636,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    636
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video5.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 231,
+   "w": 536,
+   "h": 360,
+   "fps": 30.0,
+   "box": [
+    0,
+    360,
+    0,
+    536
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video54.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 468,
+   "w": 852,
+   "h": 480,
+   "fps": 30.0,
+   "box": [
+    0,
+    480,
+    0,
+    852
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video55.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 413,
+   "w": 854,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    854
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video56.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 308,
+   "w": 640,
+   "h": 368,
+   "fps": 24.0,
+   "box": [
+    0,
+    368,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video57.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 209,
+   "w": 1920,
+   "h": 1080,
+   "fps": 30.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video58.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 621,
+   "w": 840,
+   "h": 472,
+   "fps": 30.0,
+   "box": [
+    0,
+    472,
+    0,
+    840
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video6.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 123,
+   "w": 478,
+   "h": 384,
+   "fps": 30.0,
+   "box": [
+    0,
+    384,
+    0,
+    478
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video64.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 297,
+   "w": 536,
+   "h": 324,
+   "fps": 30.0,
+   "box": [
+    0,
+    324,
+    0,
+    536
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video65.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 354,
+   "w": 540,
+   "h": 324,
+   "fps": 30.0,
+   "box": [
+    0,
+    324,
+    0,
+    540
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video70.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 247,
+   "w": 832,
+   "h": 480,
+   "fps": 29.0,
+   "box": [
+    0,
+    480,
+    0,
+    832
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video72.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 266,
+   "w": 1270,
+   "h": 720,
+   "fps": 30.0,
+   "box": [
+    0,
+    720,
+    0,
+    1270
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video74.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 165,
+   "w": 1136,
+   "h": 640,
+   "fps": 30.0,
+   "box": [
+    0,
+    640,
+    0,
+    1136
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video79.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 105,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video80.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 229,
+   "w": 844,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    844
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video81.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 146,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video85.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 417,
+   "w": 720,
+   "h": 396,
+   "fps": 30.0,
+   "box": [
+    0,
+    396,
+    0,
+    720
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video87.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 165,
+   "w": 640,
+   "h": 368,
+   "fps": 24.0,
+   "box": [
+    0,
+    368,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video88.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 275,
+   "w": 832,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    832
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video91.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 863,
+   "w": 848,
+   "h": 464,
+   "fps": 25.0,
+   "box": [
+    0,
+    464,
+    0,
+    848
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video93.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 260,
+   "w": 536,
+   "h": 328,
+   "fps": 24.0,
+   "box": [
+    0,
+    317,
+    0,
+    536
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/video96.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 96,
+   "w": 1280,
+   "h": 720,
+   "fps": 30.0,
+   "box": [
+    14,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/videox1_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 49,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/accident_\u5c0f\u4e8e1M/videox31_1.mp4",
+   "split": "train",
+   "accident": 1,
+   "n_frames": 41,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg1.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg10.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg12.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 500,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg14.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg16.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg18.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 496,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg20.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 274,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg22.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg24.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg26.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg28.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg3.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg30.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 899,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg32.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 498,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg34.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 99,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg36.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 552,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg38.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg40.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 979,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg42.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 526,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg44.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg46.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 490,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg48.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 541,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg50.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 538,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg52.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 517,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg54.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg56.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg58.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 330,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg6.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 550,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg60.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 527,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg62.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 349,
+   "w": 2560,
+   "h": 1440,
+   "fps": 25.0,
+   "box": [
+    0,
+    1440,
+    0,
+    2560
+   ]
+  },
+  {
+   "video": "train/normal/20220518_acci-bg8.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 247,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg11.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 531,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg13.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg16.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 269,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg18.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg20.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 524,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg22.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 549,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg24.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 552,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg26.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 554,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg29.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg3.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 504,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg31.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 489,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg33.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg35.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 501,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg37.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg39.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 490,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg41.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg44.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 539,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg48.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 545,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg5.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 499,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg7.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 546,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20220620_acci-bg9.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 538,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_1.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 349,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_103.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 200,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.083,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_105.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_107.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 165,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_11.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 2688,
+   "h": 1520,
+   "fps": 25.0,
+   "box": [
+    0,
+    1520,
+    0,
+    2688
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_111.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_113.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_115.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1280,
+   "h": 960,
+   "fps": 25.0,
+   "box": [
+    0,
+    960,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_119.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_121.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 2688,
+   "h": 1520,
+   "fps": 25.0,
+   "box": [
+    0,
+    1520,
+    0,
+    2688
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_123.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_127.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 274,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_129.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 244,
+   "w": 704,
+   "h": 576,
+   "fps": 25.0,
+   "box": [
+    0,
+    576,
+    0,
+    704
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_131.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 274,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_135.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 301,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_137.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 92,
+   "w": 2688,
+   "h": 1520,
+   "fps": 25.0,
+   "box": [
+    0,
+    1520,
+    0,
+    2688
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_139.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_143.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_145.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_147.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 250,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_15.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 149,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_151.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 195,
+   "w": 1600,
+   "h": 1200,
+   "fps": 25.0,
+   "box": [
+    0,
+    1200,
+    0,
+    1600
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_153.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_155.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_17.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 2688,
+   "h": 1520,
+   "fps": 25.0,
+   "box": [
+    0,
+    1520,
+    0,
+    2688
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_19.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_23.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_25.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 274,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_27.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_3.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 149,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_31.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 284,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_33.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 274,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_35.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 268,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_39.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_41.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 2560,
+   "h": 1440,
+   "fps": 25.0,
+   "box": [
+    0,
+    1440,
+    0,
+    2560
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_43.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 274,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.083,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_47.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_49.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_51.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 2688,
+   "h": 1520,
+   "fps": 25.083,
+   "box": [
+    0,
+    1520,
+    0,
+    2688
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_55.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 196,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_57.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_59.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 199,
+   "w": 704,
+   "h": 576,
+   "fps": 25.0,
+   "box": [
+    0,
+    576,
+    0,
+    704
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_63.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 2560,
+   "h": 1440,
+   "fps": 25.0,
+   "box": [
+    0,
+    1440,
+    0,
+    2560
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_65.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 274,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_67.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_7.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_71.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 281,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_73.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 149,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_75.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 297,
+   "w": 2688,
+   "h": 1520,
+   "fps": 24.75,
+   "box": [
+    0,
+    1520,
+    0,
+    2688
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_79.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 149,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_81.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 200,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_83.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 209,
+   "w": 640,
+   "h": 480,
+   "fps": 25.0,
+   "box": [
+    0,
+    480,
+    0,
+    640
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_87.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_89.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_9.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 299,
+   "w": 1280,
+   "h": 720,
+   "fps": 25.0,
+   "box": [
+    0,
+    720,
+    0,
+    1280
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_91.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 195,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_95.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 249,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_97.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 300,
+   "w": 2688,
+   "h": 1520,
+   "fps": 25.0,
+   "box": [
+    0,
+    1520,
+    0,
+    2688
+   ]
+  },
+  {
+   "video": "train/normal/20230818_acci-bg_99.mp4",
+   "split": "train",
+   "accident": 0,
+   "n_frames": 199,
+   "w": 1920,
+   "h": 1080,
+   "fps": 25.0,
+   "box": [
+    0,
+    1080,
+    0,
+    1920
+   ]
+  }
+ ]
+}

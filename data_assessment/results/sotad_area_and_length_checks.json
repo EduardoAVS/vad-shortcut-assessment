@@ -1,0 +1,39 @@
+{
+  "test": {
+    "n_boxes": 29,
+    "table_rule": 0.9958246346555324,
+    "majority": 0.8121085594989561,
+    "gain": 0.1837160751565763,
+    "accidents_in_exclusive_box": 88,
+    "n_accident": 90,
+    "frac_accidents_exclusive": 0.9777777777777777
+  },
+  "train": {
+    "n_boxes": 74,
+    "table_rule": 0.9876977152899824,
+    "majority": 0.8875219683655536,
+    "gain": 0.10017574692442877,
+    "accidents_in_exclusive_box": 171,
+    "n_accident": 192,
+    "frac_accidents_exclusive": 0.890625
+  },
+  "all": {
+    "n_boxes": 91,
+    "table_rule": 0.9894784995425434,
+    "majority": 0.8709972552607502,
+    "gain": 0.11848124428179319,
+    "accidents_in_exclusive_box": 259,
+    "n_accident": 282,
+    "frac_accidents_exclusive": 0.9184397163120568
+  },
+  "out_of_sample": {
+    "accuracy": 0.954070981210856,
+    "majority": 0.8121085594989561,
+    "gain": 0.14196242171189988,
+    "accidents_correct": 68,
+    "n_accident": 90,
+    "normals_correct": 389,
+    "n_normal": 389,
+    "unseen_boxes": 20
+  }
+}

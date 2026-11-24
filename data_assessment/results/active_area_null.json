@@ -1,0 +1,72 @@
+[
+  {
+    "name": "TAD (test)",
+    "n": 32,
+    "n_boxes": 3,
+    "table_rule_observed": 0.5625,
+    "table_rule_null_mean": 0.546625,
+    "table_rule_null_p95": 0.5625,
+    "table_rule_excess": 0.015874999999999972,
+    "majority": 0.5,
+    "exclusive_observed": 0.0,
+    "exclusive_null_mean": 0.06175,
+    "exclusive_excess": -0.06175,
+    "above_null": false
+  },
+  {
+    "name": "TAD (train)",
+    "n": 372,
+    "n_boxes": 114,
+    "table_rule_observed": 0.7688172043010753,
+    "table_rule_null_mean": 0.7853440860215053,
+    "table_rule_null_p95": 0.803763440860215,
+    "table_rule_excess": -0.016526881720430042,
+    "majority": 0.7016129032258065,
+    "exclusive_observed": 0.5938697318007663,
+    "exclusive_null_mean": 0.3132988505747127,
+    "exclusive_excess": 0.2805708812260536,
+    "above_null": false
+  },
+  {
+    "name": "TAD (all)",
+    "n": 404,
+    "n_boxes": 114,
+    "table_rule_observed": 0.745049504950495,
+    "table_rule_null_mean": 0.7674913366336634,
+    "table_rule_null_p95": 0.7846534653465347,
+    "table_rule_excess": -0.02244183168316838,
+    "majority": 0.6856435643564357,
+    "exclusive_observed": 0.5595667870036101,
+    "exclusive_null_mean": 0.28538447653429605,
+    "exclusive_excess": 0.274182310469314,
+    "above_null": false
+  },
+  {
+    "name": "SO-TAD (test)",
+    "n": 479,
+    "n_boxes": 29,
+    "table_rule_observed": 0.9958246346555324,
+    "table_rule_null_mean": 0.8207192066805845,
+    "table_rule_null_p95": 0.826722338204593,
+    "table_rule_excess": 0.17510542797494788,
+    "majority": 0.8121085594989561,
+    "exclusive_observed": 0.9777777777777777,
+    "exclusive_null_mean": 0.04403333333333333,
+    "exclusive_excess": 0.9337444444444444,
+    "above_null": true
+  },
+  {
+    "name": "SO-TAD (all)",
+    "n": 2186,
+    "n_boxes": 91,
+    "table_rule_observed": 0.9894784995425434,
+    "table_rule_null_mean": 0.8748048947849955,
+    "table_rule_null_p95": 0.8769441903019213,
+    "table_rule_excess": 0.11467360475754795,
+    "majority": 0.8709972552607502,
+    "exclusive_observed": 0.9184397163120568,
+    "exclusive_null_mean": 0.027689716312056734,
+    "exclusive_excess": 0.89075,
+    "above_null": true
+  }
+]
